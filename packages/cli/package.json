@@ -19,7 +19,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@scriptfolio/local-client": "^0.0.0"
+    "@scriptfolio/local-client": "^1.0.0"
   },
   "devDependencies": {
     "@scriptfolio/local-api": "^1.0.0",
