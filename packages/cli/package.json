@@ -1,6 +1,6 @@
 {
   "name": "scriptfolio",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -19,10 +19,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@scriptfolio/local-client": "^1.0.0"
+    "@scriptfolio/local-client": "^2.0.0"
   },
   "devDependencies": {
-    "@scriptfolio/local-api": "^1.0.0",
+    "@scriptfolio/local-api": "^2.0.0",
     "@types/node": "^20.11.25",
     "commander": "^12.0.0",
     "esbuild": "^0.20.1"
