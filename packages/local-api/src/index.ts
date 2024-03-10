@@ -23,8 +23,9 @@ const serve = (
       })
     );
   } else {
-    const packagePath = require.resolve("local-client/dist/index.html");
-    console.log("use static");
+    const packagePath = require.resolve(
+      "@scriptfolio/local-client/dist/index.html"
+    );
     app.use(express.static(path.dirname(packagePath)));
   }
 

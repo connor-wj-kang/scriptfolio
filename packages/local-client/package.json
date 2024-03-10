@@ -67,5 +67,6 @@
   "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
   "main": "postcss.config.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "7c99c06fffa4eb54a438394fb434d38db49cefee"
 }
